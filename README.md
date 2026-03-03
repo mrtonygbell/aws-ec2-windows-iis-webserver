@@ -36,6 +36,9 @@ In a production environment this should be restricted to a specific IP address, 
 
 ## Screenshots
 
+### Instance Configuration
+![Instance Configuration](instance-configuration.png)
+
 ### EC2 Instance Running
 ![EC2 Instance](ec2-instance-running.png)
 
