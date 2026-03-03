@@ -34,5 +34,4 @@ Hosted Web Page
 For lab purposes, RDP access was allowed from anywhere (0.0.0.0/0). 
 In a production environment this should be restricted to a specific IP address, VPN connection, or bastion host.
 
-## Screenshots
-(Add screenshots showing the EC2 instance, security group configuration, RDP connection, and IIS webpage.)
+
